@@ -1,6 +1,4 @@
 plugins {
-    // Note: This Sonarqube plugin version is also quite old.
-    // If you continue to see issues, you might need to update this.
     id "org.sonarqube" version "7.2.0.6526"
 }
 
