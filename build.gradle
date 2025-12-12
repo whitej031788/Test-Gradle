@@ -2,6 +2,8 @@ plugins {
     id 'java'
     id 'application'
     id 'idea'
+    // Enables the `sonar {}` configuration block and `sonar` task.
+    id 'org.sonarqube' version '5.1.0.4882'
 }
 
 group = 'local'
@@ -32,4 +34,17 @@ dependencies {
     implementation files('jidt-1.0.jar')
 
     testImplementation 'junit:junit:4.13.2'
+}
+
+sonar {
+    properties {
+        property "sonar.projectKey", "deepakcdo_Test"
+        property "sonar.organization", "deepakcdo"
+    }
+}
+sonar {
+  properties {
+    property "sonar.projectKey", "deepakcdo_Test"
+    property "sonar.organization", "deepakcdo"
+  }
 }
