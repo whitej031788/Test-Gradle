@@ -4,8 +4,9 @@ plugins {
 
 repositories {
     mavenCentral()
-    // Add JitPack to resolve the me.lizier:jidt:1.0 dependency
-    maven { url 'https://jitpack.io' }
+    flatDir {
+        dirs 'libs'
+    }
 }
 
 apply plugin: 'java'
