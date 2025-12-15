@@ -61,7 +61,7 @@ dependencies {
 
 sonar {
     properties {
-        property "sonar.projectKey", "deepakcdo_Test"
-        property "sonar.organization", "deepakcdo"
+        property "sonar.projectKey", "whitej031788_Test-Gradle"
+        property "sonar.organization", "whitej031788"
     }
 }
