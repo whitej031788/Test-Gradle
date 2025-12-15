@@ -50,6 +50,7 @@ dependencies {
 
     // JIDT - from local jar (not on Maven Central)
     implementation files('jidt-1.0.jar')
+    implementation files('postgresql-42.5.0.jar')
 
     // Test dependencies
     testImplementation 'junit:junit:4.13.2'
