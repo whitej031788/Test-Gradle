@@ -49,8 +49,8 @@ dependencies {
     implementation(group: 'org.slf4j', name: 'slf4j-api', version: '2.0.17') { transitive = false }
 
     // JIDT - from local jar (not on Maven Central)
-    implementation files('jidt-1.0.jar')
-    implementation files('postgresql-42.5.0.jar')
+    implementation files('libs/jidt-1.0.jar')
+    implementation files('libs/postgresql-42.5.0.jar')
 
     // Test dependencies
     testImplementation 'junit:junit:4.13.2'
