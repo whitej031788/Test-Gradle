@@ -48,7 +48,7 @@ dependencies {
     implementation(group: 'org.apache.logging.log4j', name: 'log4j-jcl', version: '2.25.2') { transitive = false }
     implementation(group: 'org.slf4j', name: 'slf4j-api', version: '2.0.17') { transitive = false }
 
-    // JIDT - from local jar (not on Maven Central)
+    // JIDT - from local jar (not on Maven Central)s
     implementation files('libs/jidt-1.0.jar')
     implementation files('libs/postgresql-42.5.0.jar')
 
