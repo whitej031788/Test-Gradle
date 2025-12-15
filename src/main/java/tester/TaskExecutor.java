@@ -6,9 +6,16 @@ import java.util.concurrent.LinkedBlockingQueue;
 public class TaskExecutor {
     private final BlockingQueue<ITask> taskQueue = new LinkedBlockingQueue<>();
     private final Thread workerThread;
+    private final PostgresqlDataSource dataSource;
 
     public TaskExecutor() {
         workerThread = new Thread(this::run);
+
+        // create a fake use for the database
+        dataSource = new PostgresqlDataSource();
+        dataSource.setUrl("jdbc:postgresql://localhost:5432/test");
+        dataSource.setUsername("postgres");
+        dataSource.setPassword("postgres"); 
     }
 
     public void execute(final ITask task) {
