@@ -12,99 +12,88 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.0-rc2/8df00d55ee4f8798cb9511853872da820abbddd/jackson-databind-2.6.0-rc2.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.20.1/9586a7fe0e1775de0e54237fa6a2c8455c93ac06/jackson-databind-2.20.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.0-rc2/e9fd58b934d7ea2360cbad1304de4a5d6e46dd91/jackson-databind-2.6.0-rc2-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.20.1/e564d144a5bad97ed26def1055aac09106595b63/jackson-databind-2.20.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.0-rc2/331582aaaa6096e05beb7dda13a726b0984a9d4c/jackson-core-2.6.0-rc2.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.20.1/5734323adfece72111769b0ae38a6cf803e3d178/jackson-core-2.20.1.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.0-rc2/1429478346a1343a544a9ede6cd8ed029f168005/jackson-core-2.6.0-rc2-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.20.1/e3cd2df11b38f06f9f34740db951cdcf66327b92/jackson-core-2.20.1-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.1/588c32c91544d80cc706447aa2b8037230114931/log4j-api-2.1.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.25.2/292c1a2b1702f1e1e3adb13e1c57e5bff60335ff/log4j-api-2.25.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.1/171e4563feb5bf66ef790a8e679557a03b378f8e/log4j-api-2.1-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.25.2/fccc23e47499d8ed545901ec5e2ff5a6ab17b4f1/log4j-api-2.25.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.1/31823dcde108f2ea4a5801d1acc77869d7696533/log4j-core-2.1.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.25.2/d4d0ad2e51e03e531f784891fbfff1bae1e13a12/log4j-core-2.25.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.1/6e6c4141f6d96e57fd48df5d398a122226ef92d7/log4j-core-2.1-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.25.2/aed03834249eaee1b3dcc5e0c54b328983085a67/log4j-core-2.25.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.1/fe9d0925aeee68b743e9ea4b68ca9190a2a411a/log4j-slf4j-impl-2.1.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.25.2/e1f9b977b021cdc37e874076f4f400913ff6aba2/log4j-slf4j-impl-2.25.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.1/84e0d304645800acb10d9113f462d4400a13d12f/log4j-slf4j-impl-2.1-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.25.2/a205b7f4f530b90d89e84cde570c384d14330e4a/log4j-slf4j-impl-2.25.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-jcl/2.1/58f1362403f0100da0415f69beaa78fa88fd4ed7/log4j-jcl-2.1.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-jcl/2.25.2/9c28150335c00f8bfbb4a1d0e683e90cc6c4721a/log4j-jcl-2.25.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-jcl/2.1/3f559f1b4f1cb327eab59dc1f91d5001805735a9/log4j-jcl-2.1-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-jcl/2.25.2/831dbfee01e898cdd1c18fd6db2384cb60e817c7/log4j-jcl-2.25.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-1.2-api/2.1/ad7e98cf59bcba2c00a0cd0b37f9c4b69b208cae/log4j-1.2-api-2.1.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d9e58ac9c7779ba3bf8142aff6c830617a7fe60f/slf4j-api-2.0.17.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-1.2-api/2.1/10f452847962bf53f7e9933158a57228f608752d/log4j-1.2-api-2.1-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.17/d7da5e7fecb3544b1e32f86dc0ef5d5ecf9f381b/slf4j-api-2.0.17-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.8/40d4abec9e853fd9f17fb144f1e7c2c5bab52af9/slf4j-api-1.7.8.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/6a5e7291ea3f2b590a7ce400adb7b3aea4d7e12c/jackson-annotations-2.20.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.8/87689665bce1c7b9653aca76c54258d9479b7734/slf4j-api-1.7.8-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0-rc2/16bee8a2be14c3d7b33d0cd826f96acb3ca2ee3/jackson-annotations-2.6.0-rc2.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0-rc2/c70819c03f3100e903c2349fadcb8d4ad0158788/jackson-annotations-2.6.0-rc2-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.20/34b29ba2056358f422b0eb890611dbf15876986e/jackson-annotations-2.20-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -149,22 +138,22 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.2.RELEASE/9ed0fa8f5d9596d28f1ea9961177e2a7cb815c79/spring-test-4.3.2.RELEASE.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/7.0.2/47fb8017b5fd9d5030b2c3bde84dae8d7aa865fc/spring-test-7.0.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.2.RELEASE/c85326db3240124464fa47d03e3c26a96c70cc9e/spring-test-4.3.2.RELEASE-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/7.0.2/4c3fe5ec309f1e98ec66f46630878242aedb1afa/spring-test-7.0.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-messaging/4.3.2.RELEASE/7937cb22226ac70526f2c376d2f976403d99ddae/spring-messaging-4.3.2.RELEASE.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-messaging/7.0.2/f4f24e27370cc6361829f25e167ee00ea8a6144f/spring-messaging-7.0.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-messaging/4.3.2.RELEASE/34dc95f34f7fc78cbe71fa3c1af8b3490d7ffe84/spring-messaging-4.3.2.RELEASE-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-messaging/7.0.2/6b96ac34c5f4c88fcaea840c157786c6e43c43f5/spring-messaging-7.0.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -182,66 +171,44 @@
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.2.RELEASE/e52782b824e097c3b1586b497fc6be0e95020770/spring-context-4.3.2.RELEASE.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/7.0.2/224739ac1b1bd96e866fb436cbcc46a7457a64a2/spring-beans-7.0.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.2.RELEASE/aed414800c159e0a45cb0af43c2a8c22cab8faac/spring-context-4.3.2.RELEASE-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/7.0.2/e24c779abf38647e6ddce086f6ffb9b05f60896c/spring-beans-7.0.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.2.RELEASE/caef216e995f565dd4ab165ec5918ff44487615d/spring-aop-4.3.2.RELEASE.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.2/92b5608685a6212fe2ce3565bc1bf660505560c7/spring-core-7.0.2.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.2.RELEASE/36facb73244b336b0c12a27454b4ff3fed30eebd/spring-aop-4.3.2.RELEASE-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/7.0.2/2a9f2988f950df93f969d7b792b35b7e0f02848e/spring-core-7.0.2-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.2.RELEASE/9e87f48f65a33a017f2dd027911947a28be29f93/spring-beans-4.3.2.RELEASE.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.5/a3fcc5d3c29b2b03433aa2d2f2d2c1b1638924a1/commons-logging-1.3.5.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.2.RELEASE/72acec93b901c2f88613fec3660e0311c3d25d3/spring-beans-4.3.2.RELEASE-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.5/14ff56f1b42e654f92511a1bf29376e0da6d1f51/commons-logging-1.3.5-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.2.RELEASE/7676acd4dde9d186b7f882edce3131dc62dcb590/spring-expression-4.3.2.RELEASE.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.2.RELEASE/179fbc6fc078a00c0fe0f7e88691022028fd88e7/spring-expression-4.3.2.RELEASE-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/fd2f3cf45d3c84f293cb7ee3ab7d24c979495552/spring-core-4.3.2.RELEASE.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/4d695ffe01b7f23d66dc8d587f78212fecc70614/spring-core-4.3.2.RELEASE-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library>
-        <CLASSES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+          <root url="jar://C:/Users/deepa/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/f1a67bbcf2f9f282baf3821046563983f16ca9b2/jspecify-1.0.0-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>

@@ -21,6 +21,14 @@ java {
     }
 }
 
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java']  // default
+        }
+    }
+}
+
 application {
     mainClass = 'tester.TaskExecutor'
 }
