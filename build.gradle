@@ -44,10 +44,10 @@ dependencies {
     implementation files('jidt-1.0.jar')
 
     // Test dependencies
-    testImplementation 'junit:junit:5.11.0'
+    testImplementation 'junit:junit:4.13.2'
     testImplementation 'org.springframework:spring-test:7.0.2'
     testImplementation 'org.springframework:spring-messaging:7.0.2'
-    testImplementation 'com.fasterxml.jackson.core:jackson-annotations:2.20.1'
+    testImplementation 'com.fasterxml.jackson.core:jackson-annotations:2.20'
 }
 
 sonar {

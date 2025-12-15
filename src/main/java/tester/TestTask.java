@@ -1,9 +1,9 @@
 package tester;
 
-import java.util.Random;
+import java.util.SecureRandom;
 
 public class TestTask implements ITask {
-    private static final Random random = new Random(System.currentTimeMillis());
+    private static final SecureRandom random = new SecureRandom(System.currentTimeMillis());
     final int id;
 
     public TestTask(int id) {
